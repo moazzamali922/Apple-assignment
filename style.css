@@ -1,0 +1,320 @@
+body {
+  margin: 0px;
+  width: 100vw;
+}
+.navbar {
+  display: flex;
+  width: 100%;
+  padding: 0px 300px;
+  margin: 0px;
+  height: 50px;
+  text-align: center;
+  background-color: #000000cc;
+  opacity: 70%;
+  min-width: 1130px;
+  position: fixed;
+  top: 0px;
+}
+.navleft{
+    padding: 0px 0px;
+    margin: 0px;
+}
+.navmid{
+    padding: 13px 0px;
+    margin: 0px;
+}
+.navright{
+    padding: 0px 0px;
+    margin: 0px;
+    color: white;
+}
+.navright i{
+    margin: 13px;
+}
+.navchild {
+
+  padding: 0px 0px 0px 0px;
+  margin: 14px;
+  height: 10px;
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+}
+.icon1{
+    padding: 0px 25px;
+    margin: 0px 0px;  
+
+}
+
+/* Navbar Css end Here */
+
+.topbox1 {
+  padding: 1px 0px;
+  height: 750px;
+  text-align: center;
+  background-image: url(https://www.apple.com/v/home/aw/images/heroes/iphone-14/hero_iphone14__fjmsqstr1ceq_largetall.jpg);
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  
+  background-repeat: no-repeat;
+}
+.topbox1 h1 {
+  padding: 90px 0px 0px 0px;
+  margin: 10px;
+  font-size: 60px;
+}
+.topbox1 h2 {
+  padding: 0px 0px 0px 0px;
+  margin: 0px;
+  font-size: 30px;
+}
+.links {
+  padding: 15px 0px 0px 0px;
+  margin: 0px;
+}
+.links a {
+  text-decoration: none;
+  padding: 10px 15px;
+  margin: 0px;
+  font-size: 24px;
+  color: blue;
+}
+
+.topbox2 {
+  padding: 0px 0px 0px 0px;
+  height: 680px;
+  background-color: darkblue;
+}
+.content {
+  padding: 330px 0px 0px 0px;
+  margin: 0px;
+  text-align: center;
+  font-size: 28px;
+}
+.content h1 {
+  padding: 0px 0px 0px 0px;
+  color: white;
+}
+.content p {
+  color: white;
+}
+.content a {
+  text-decoration: none;
+  color: lightblue;
+}
+
+.topbox3 {
+  padding: 1px 0px;
+  height: 680px;
+  text-align: center;
+  background-image: url(./345.jpg);
+  background-size: cover;
+  background-position: center;
+
+
+  font-size: 25px;
+}
+.topbox3 h1 {
+  padding: 1px 0px 0px 0px;
+  color: white;
+}
+.topbox3 p {
+  color: white;
+  padding: 0px 0px 0px 0px;
+}
+.topbox3 a {
+  text-decoration: none;
+  color: lightblue;
+  padding: 0px 20px;
+}
+.topbox4 {
+  padding: 0px 0px 0px 0px;
+  height: 680px;
+  display: flex;
+}
+.left1 {
+  margin: 5px;
+  height: 680px;
+  width: 48%;
+  background-color: palegreen;
+  color: white;
+  text-align: center;
+  background-image: url( ./435.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.left1 h1 {
+  font-size: 40px;
+}
+.left1 h2 {
+  font-size: 25px;
+}
+.left1 a {
+  padding: 0px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: lightblue;
+}
+
+.right1 {
+  margin: 5px;
+  height: 680px;
+  width: 48%;
+  background-color: palegreen;
+  color: black;
+  text-align: center;
+  background-image: url( ./567.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.right1 h1 {
+  font-size: 40px;
+}
+.right1 h2 {
+  font-size: 25px;
+}
+.right1 a {
+  padding: 0px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+.topbox5 {
+  padding: 0px 0px 0px 0px;
+  height: 680px;
+  display: flex;
+  text-align: center;
+}
+.left2 {
+  margin: 5px;
+  height: 680px;
+  width: 48%;
+  background-color: palegreen;
+  color: black;
+  text-align: center;
+  background-image: url( ./678.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.left2 h1 {
+  font-size: 40px;
+}
+.left2 h2 {
+  font-size: 25px;
+}
+.left2 a {
+  padding: 0px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+.right2 {
+  margin: 5px;
+  height: 680px;
+  width: 48%;
+  background-color: palegreen;
+  color: black;
+  text-align: center;
+  background-image: url( ./987.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.right2 h1 {
+  font-size: 40px;
+}
+.right2 h2 {
+  font-size: 25px;
+}
+.right2 a {
+  padding: 0px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+.topbox6 {
+  padding: 0px 0px 0px 0px;
+  height: 680px;
+  display: flex;
+  text-align: center;
+}
+.left3 {
+  margin: 5px;
+  height: 680px;
+  width: 48%;
+  background-color: palegreen;
+  color: white;
+  text-align: center;
+  background-image: url(./345.jpg);
+  background-position: center;
+}
+.left3 h1 {
+  font-size: 40px;
+}
+.left3 h2 {
+  font-size: 25px;
+}
+.left3 a {
+  padding: 0px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: lightblue;
+}
+.right3 {
+  margin: 5px;
+  height: 680px;
+  width: 48%;
+  background-color: palegreen;
+  color: white;
+  text-align: center;
+  background-image: url( https://www.apple.com/v/home/aw/images/promos/iphone-14-pro/promo_iphone14pro__4n4twj56fzmu_large.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.right3 h1 {
+  font-size: 40px;
+}
+.right3 h2 {
+  font-size: 25px;
+}
+.right3 a {
+  padding: 0px 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: whitesmoke;
+}
+.adsside {
+  padding: 0px 0px;
+  height: 640px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+.adsside h1 {
+  padding: 250px 0px 0px 0px;
+  margin: 0px;
+  font-size: 100px;
+}
+.bottom {
+  padding: 0px 0px;
+  height: 640px;
+  text-align: center;
+  background-color: whitesmoke;
+}
+.bottom p {
+  padding: 30px 100px;
+}
+.bottom2 {
+  display: flex;
+  flex-direction: row;
+  padding: 0px 100px;
+}
+.bleft {
+  padding: 0px 100px;
+  margin: 0px;
+}
+.bleft p{
+  padding: 0px 10px;
+  margin: 0px;
+}
